@@ -1,5 +1,4 @@
-# react_useState_useEffect
-Created with CodeSandbox
+Created with CodeSandbox.
 
 Simple exercise using react hooks!
 
